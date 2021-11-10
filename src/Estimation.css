@@ -1,0 +1,23 @@
+.estimation {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.estimationHeader {
+    color: darkgray;
+    fill: darkgray;
+    display: inline-flex;
+    align-items: center;
+    height: 4rem;
+}
+.estimationHeaderEstimation {
+    margin: 0 1rem;
+    display: inline-flex;
+    align-items: center;
+    font-size: 175%;
+}
+.estimationHeaderEstimation svg {
+    height: 4rem;
+    width: 3rem;
+}
+
